@@ -1,5 +1,7 @@
 # vue3-todolist-01
 
+### 예제 (https://okayoon.tistory.com/entry/Vue3Typescript%ED%95%A0%EC%9D%BC%EB%AA%A9%EB%A1%9D%EC%9D%84%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9CVue3%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-01)
+
 ## Project setup
 ```
 npm install
